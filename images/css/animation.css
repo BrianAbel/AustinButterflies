@@ -1,0 +1,280 @@
+header{
+	transition: opacity 0.3s;
+}
+
+
+#fadeIn1{
+	animation-name: pictureAnim1;
+	animation-duration: 40s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	animation-direction: normal;
+}
+
+#fadeIn2{
+	animation-name: pictureAnim2;
+	animation-duration: 40s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	animation-direction: normal;
+}
+
+#fadeIn3{
+	animation-name: pictureAnim3;
+	animation-duration: 40s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	animation-direction: normal;
+}
+
+#fadeIn4{
+	animation-name: pictureAnim4;
+	animation-duration: 40s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	animation-direction: normal;
+}
+
+#fadeIn5{
+	animation-name: pictureAnim5;
+	animation-duration: 40s;
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	animation-direction: normal;
+}
+
+
+@-webkit-keyframes pictureAnim1{
+	0%{
+		opacity: 1.0;
+	}
+	
+	15%{
+		opacity: 1.0;
+	}
+	
+	20%{
+		opacity: 0.0;
+	}
+	
+	35%{
+		opacity: 0.0;
+	}
+	
+	40%{
+		opacity: 0.0;
+	}
+	
+	55%{
+		opacity: 0.0;
+	}
+	
+	60%{
+		opacity: 0.0;
+	}
+	
+	75%{
+		opacity: 0.0;
+	}
+	
+	80%{
+		opacity: 0.0;
+	}
+	
+	95%{
+		opacity: 0.0;
+	}
+	
+	100%{
+		opacity: 1.0;
+	}
+	
+}
+
+@-webkit-keyframes pictureAnim2{
+	0%{
+		opacity: 0.0;
+	}
+	
+	15%{
+		opacity: 0.0;
+	}
+	
+	20%{
+		opacity: 1.0;
+	}
+	
+	35%{
+		opacity: 1.0;
+	}
+	
+	40%{
+		opacity: 0.0;
+	}
+	
+	55%{
+		opacity: 0.0;
+	}
+	
+	60%{
+		opacity: 0.0;
+	}
+	
+	75%{
+		opacity: 0.0;
+	}
+	
+	80%{
+		opacity: 0.0;
+	}
+	
+	95%{
+		opacity: 0.0;
+	}
+	
+	100%{
+		opacity: 0.0;
+	}
+	
+}
+
+@-webkit-keyframes pictureAnim3{
+	0%{
+		opacity: 0.0;
+	}
+	
+	15%{
+		opacity: 0.0;
+	}
+	
+	20%{
+		opacity: 0.0;
+	}
+	
+	35%{
+		opacity: 0.0;
+	}
+	
+	40%{
+		opacity: 1.0;
+	}
+	
+	55%{
+		opacity: 1.0;
+	}
+	
+	60%{
+		opacity: 0.0;
+	}
+	
+	75%{
+		opacity: 0.0;
+	}
+	
+	80%{
+		opacity: 0.0;
+	}
+	
+	95%{
+		opacity: 0.0;
+	}
+	
+	100%{
+		opacity: 0.0;
+	}
+	
+}
+
+@-webkit-keyframes pictureAnim4{
+	0%{
+		opacity: 0.0;
+	}
+	
+	15%{
+		opacity: 0.0;
+	}
+	
+	20%{
+		opacity: 0.0;
+	}
+	
+	35%{
+		opacity: 0.0;
+	}
+	
+	40%{
+		opacity: 0.0;
+	}
+	
+	55%{
+		opacity: 0.0;
+	}
+	
+	60%{
+		opacity: 1.0;
+	}
+	
+	75%{
+		opacity: 1.0;
+	}
+	
+	80%{
+		opacity: 0.0;
+	}
+	
+	95%{
+		opacity: 0.0;
+	}
+	
+	100%{
+		opacity: 0.0;
+	}
+	
+}
+
+@-webkit-keyframes pictureAnim5{
+	0%{
+		opacity: 0.0;
+	}
+	
+	15%{
+		opacity: 0.0;
+	}
+	
+	20%{
+		opacity: 0.0;
+	}
+	
+	35%{
+		opacity: 0.0;
+	}
+	
+	40%{
+		opacity: 0.0;
+	}
+	
+	55%{
+		opacity: 0.0;
+	}
+	
+	60%{
+		opacity: 0.0;
+	}
+	
+	75%{
+		opacity: 0.0;
+	}
+	
+	80%{
+		opacity: 1.0;
+	}
+	
+	95%{
+		opacity: 1.0;
+	}
+	
+	100%{
+		opacity: 0.0;
+	}
+	
+}
