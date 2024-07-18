@@ -45,6 +45,12 @@ body #trueBody{
 position: relative;
 }
 
+body #leftSideContent{
+	position: relative;
+	float:left;
+	width: 35%;
+}
+
 body #recentPictures{
 	position: relative;
 	float:left;
